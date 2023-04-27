@@ -1,2 +1,2 @@
 # node_learn
-learning node from basics
+learning node from basics and intermediate
